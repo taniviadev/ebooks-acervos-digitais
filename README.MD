@@ -11,8 +11,8 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
 - [UNESCO](https://unesdoc.unesco.org/) 
 
 ## **🤖 Tecnologias Utilizadas**
-> - [Adobe Express IA](https://express.adobe.com/)   
-> - [ChatGPT](https://chatgpt.com)
+- [Adobe Express IA](https://express.adobe.com/)   
+- [ChatGPT](https://chatgpt.com)
 
 
 ## **🛠️ Prompts Criados**
@@ -25,7 +25,7 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
  
 
 ## **🖌️ Edição e Design**  
-[LibreOffice Logo](https://pt-br.libreoffice.org/descubra/draw/) 
+[LibreOffice Draw](https://pt-br.libreoffice.org/descubra/draw/) 
 
 ## **📂 Estrutura do Repositório** 
 
