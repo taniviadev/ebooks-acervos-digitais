@@ -2,6 +2,8 @@
 
 Ebook desenvolvido para conclusão de desafio do Bootcamp CAIXA - IA Generativa com Microsoft Copilot ft DIO.
 
+## **📚 [LINK DO EBOOK AQUI](https://github.com/taniviadev/ebooks-acervos-digitais/blob/master/output/ebook%20-%20acervos%20digitais_memoria%20e%20inovacao.pdf)**
+
 ## **🔗 Fontes de Imagens**  
 As imagens utilizadas no eBook foram obtidas das seguintes plataformas:  
 - [Freepik](https://www.freepik.com/) 
@@ -26,6 +28,16 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
 
 ### 📂 **Edição e Design:**  
 [LibreOffice Draw](https://pt-br.libreoffice.org/descubra/draw/) 
+
+## 📂 ** Estrutura do Repositório** 
+
+📦 ebooks-acervos-digitais
+├── 📁 assets             # Imagens utilizadas no eBook
+├── 📁 output             # Versões do eBook (PDF, ODP)
+└── 📄 README.md          # Este arquivo
+
+
+## 📚 **🔧 Ferramentas Utilizadas**  
 
 - **Contato:**  
   - 🌐 [GitHub](https://github.com/taniviadev)  
