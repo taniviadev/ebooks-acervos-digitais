@@ -34,6 +34,7 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
 ├── 📁 assets             # Imagens utilizadas no eBook
 ├── 📁 output             # Versões do eBook (PDF, ODP)
 └── 📄 README.md          # Este arquivo
+```
 
 ## ** 📬 Contato:**  
   - 🌐 [GitHub](https://github.com/taniviadev)  
