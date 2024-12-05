@@ -10,7 +10,7 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
 - [Pixabay](https://pixabay.com/)  
 - [UNESCO](https://unesdoc.unesco.org/) 
 
-## **🤖 Tecnologias Utilizadas:**
+## **🤖 Tecnologias Utilizadas**
 > - [Adobe Express IA](https://express.adobe.com/)   
 > - [ChatGPT](https://chatgpt.com)
 
@@ -25,7 +25,7 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
  
 
 ## **🖌️ Edição e Design**  
-[LibreOffice Draw](https://pt-br.libreoffice.org/descubra/draw/) 
+[LibreOffice Logo](https://pt-br.libreoffice.org/descubra/draw/) 
 
 ## **📂 Estrutura do Repositório** 
 
@@ -36,6 +36,6 @@ As imagens utilizadas no eBook foram obtidas das seguintes plataformas:
 └── 📄 README.md          # Este arquivo
 ```
 
-## ** 📬 Contato:**  
-  - 🌐 [GitHub](https://github.com/taniviadev)  
-  - 💼 [LinkedIn](https://linkedin.com/in/tanivia)
+## **📬 Contato**
+- :octocat: [GitHub](https://github.com/taniviadev)
+- :link: [LinkedIn](https://linkedin.com/in/tanivia)
